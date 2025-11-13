@@ -3,5 +3,5 @@ path: /Users/benjamin/Code/plushie_detector/plushie_yolo_test_split
 train: images/train
 val: images/val
 
-nc: 2
-names: ['Monkey', 'Duck']
+nc: 3
+names: ['Monkey', 'Seal', 'Duck']
