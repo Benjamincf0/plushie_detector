@@ -215,3 +215,5 @@ __marimo__/
 *.jpeg
 *.png
 result_coco.json
+*/labels/*/*.txt
+*/labels/*.txt

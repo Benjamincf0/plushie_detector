@@ -1,0 +1,10 @@
+# Dataset configuration for COCO format
+path: plushie_coco  # dataset root directory
+train: train  # train images folder
+val: val      # validation images folder
+
+# Classes
+names:
+  0: Monkey
+  1: Seal
+  2: Duck
